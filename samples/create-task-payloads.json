@@ -1,0 +1,24 @@
+{
+  "minimal": {
+    "title": "Fix login bug"
+  },
+  "with_description": {
+    "title": "Add user profile page",
+    "description": "Create a new page showing avatar, bio, and activity history."
+  },
+  "with_status": {
+    "title": "Deploy to staging",
+    "description": "Run CI and deploy to staging environment.",
+    "status": "in-progress"
+  },
+  "completed": {
+    "title": "Update README",
+    "description": "Document the new API endpoints.",
+    "status": "completed"
+  },
+  "pending": {
+    "title": "Review PR #42",
+    "description": "Code review for the auth refactor.",
+    "status": "pending"
+  }
+}
