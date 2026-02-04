@@ -26,13 +26,18 @@ Node.js + Express REST API for managing tasks, with PostgreSQL and Sequelize ORM
 
 2. **Environment**
 
-   Copy `env.example` to `.env` and set your PostgreSQL credentials:
+   Create `.env` and set your PostgreSQL credentials:
 
    ```bash
    cp env.example .env
    ```
 
    Example:
+   ```
+   DATABASE_URL
+   ```
+
+   OR
 
    ```
    PORT=3000
